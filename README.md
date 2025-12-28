@@ -69,7 +69,13 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Performance & Analytics
+
+<div align="center">
+  <img src="akash_analytics.png" alt="Akash Analytics Dashboard" width="100%">
+</div>
+
+<br />
 
 <!-- 
 IMPORTANT: Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username in all links below to see your live stats!
