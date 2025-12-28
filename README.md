@@ -1,89 +1,50 @@
-# 💫 About Me
+# 📊 Employee Records System
 
 <div align="center">
-  <img src="akash_tiwari_banner_1766934956179.png" alt="Akash Tiwari Banner" width="100%">
+  <img src="employee_records_banner_1766934483902.png" alt="Employee Records Banner" width="100%">
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Akash+Tiwari;Final+Year+Student+at+BIT;GoLang+Developer;Linux+Enthusiast;AI+Integrated+JARVIS+Creator;TalentFlow+Founder" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/akash2000-at">
-    <img src="https://img.shields.io/github/followers/akash2000-at?label=Follow&style=for-the-badge&logo=github&color=6366f1" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Language-CSV%20%7C%20Excel-blue?style=for-the-badge&logo=google-sheets" alt="Tech" />
+  <img src="https://img.shields.io/badge/Release-v1.0.0-orange?style=for-the-badge&logo=git" alt="Release" />
 </div>
 
 <br />
 
----
+## ✨ Overview
+A high-performance employee data management solution designed for modern engineering teams. Versioned on GitHub with a focus on data integrity, sleek visualization, and seamless export capabilities.
 
-### 🎓 Education & Background
-- **Institution**: Final Year Student at **Birla Institute of Technology (BIT)**.
-- **Focus**: High-performance systems, HR-Tech, and AI-driven automation.
-- **Philosophy**: "Building the bridge between human potential and technical excellence."
+> "Data is the new oil, but only if it's refined and accessible."
 
-<br />
+## 🚀 Key Features
+- **Centralized Database**: Unified `data.csv` for raw employee records.
+- **Advanced Export**: Formatted Excel (`xls`) output with currency and style support.
+- **Smart Summarization**: Automated `summary.txt` highlighting department breakdown and growth.
+- **Engineering Optimized**: Designed specifically for engineering-heavy organizations.
 
----
+## 📈 Insights
+Engineering is currently the largest department with **3 staff members**, followed by Sales and HR.
 
-### 🚀 Featured Projects
+| ID | Name | Department | Status |
+|:---|:---:|:---:|---:|
+| 01 | Alice Williams | HR | ✅ |
+| 02 | Bob Johnson | Sales | ✅ |
+| 03 | Charlie Brown | Engineering | 🔥 |
+| 04 | Jane Smith | Marketing | ✅ |
+| 05 | John Doe | Engineering | 🔥 |
 
-<div align="center">
-
-| Project | Description | Tech Stack |
+## 🛠 Tech Stack
+| Component | Technology | Role |
 |:---|:---|:---|
-| **🌊 TalentFlow** | A premium React-based platform designed for HRs to streamline hiring flows. | React, Redux, Node.js |
-| **🤖 JARVIS AI** | Advanced AI integrated assistant with voice recognition and command execution. | Python, OpenAI, JS |
-| **🐹 Go Systems** | High-performance backend services and CLI tools built with GoLang. | Go, gRPC, Docker |
-| **🐧 Linux UI** | Custom professional desktop experience and kernel optimization scripts. | Bash, C, GTK |
-
-</div>
-
-<br />
-
----
-
-### 🛠 My Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI_Integration-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</div>
-
-<br />
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash2000-at&show_icons=true&theme=omni&bg_color=0d1117&hide_border=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2000-at&layout=compact&theme=omni&bg_color=0d1117&hide_border=true&title_color=6366f1&text_color=ffffff" alt="Top Langs" height="180px" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash2000-at&color=6366f1&style=flat-square&label=Profile+Views" alt="Views" />
-</div>
+| **Storage** | CSV / Excel | Persisted data storage |
+| **Logic** | Antigravity AI | Data processing and README design |
+| **Styling** | Custom Markdown | High-end visual representation |
 
 ---
 
 <div align="center">
-  <sub>Configured with ❤️ for Akash Tiwari</sub>
+  <sub>Built with ❤️ by the Antigravity AI Team. &copy; 2025</sub>
 </div>
