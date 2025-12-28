@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Akash+Tiwari;Final+Year+Student+at+BIT;GoLang+Developer;Linux+Enthusiast;AI+Integrated+JARVIS+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Akash+Tiwari;Final+Year+Student+at+BIT;GoLang+Developer;Linux+Enthusiast;AI+Integrated+JARVIS+Creator;TalentFlow+Founder" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,8 +25,8 @@
 
 ### 🎓 Education & Background
 - **Institution**: Final Year Student at **Birla Institute of Technology (BIT)**.
-- **Focus**: High-performance systems, AI-driven automation, and kernel-level Linux optimization.
-- **Philosophy**: "Simplicity is the soul of efficiency."
+- **Focus**: High-performance systems, HR-Tech, and AI-driven automation.
+- **Philosophy**: "Building the bridge between human potential and technical excellence."
 
 <br />
 
@@ -38,10 +38,10 @@
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
+| **🌊 TalentFlow** | A premium React-based platform designed for HRs to streamline hiring flows. | React, Redux, Node.js |
 | **🤖 JARVIS AI** | Advanced AI integrated assistant with voice recognition and command execution. | Python, OpenAI, JS |
 | **🐹 Go Systems** | High-performance backend services and CLI tools built with GoLang. | Go, gRPC, Docker |
 | **🐧 Linux UI** | Custom professional desktop experience and kernel optimization scripts. | Bash, C, GTK |
-| **📊 Sheets Engine** | Data processing tool for handling complex records and automated visual reports. | CSV, Excel, Antigravity |
 
 </div>
 
@@ -52,16 +52,16 @@
 ### 🛠 My Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AI_Integration-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </div>
 
